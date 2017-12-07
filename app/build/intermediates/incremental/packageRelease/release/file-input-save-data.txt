@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Dec 07 14:09:18 GMT+08:00 2017
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\GanErdene\\AndroidStudioProjects\\NavigationDrawer\\app\\build\\intermediates\\transforms\\dex\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1

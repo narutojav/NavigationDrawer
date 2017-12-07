@@ -1,0 +1,4 @@
+#Thu Dec 07 14:36:00 GMT+08:00 2017
+base.0=C\:\\Users\\GanErdene\\AndroidStudioProjects\\NavigationDrawer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
